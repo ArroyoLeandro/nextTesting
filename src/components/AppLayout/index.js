@@ -2,7 +2,6 @@ import {useState,useEffect} from 'react';
 import Head from 'next/head';
 import Footer from './Footer';
 import Header from './Header';
-import Link from 'next/Link';
 import styles from './layout.module.css';
 import axios from 'axios'
 
