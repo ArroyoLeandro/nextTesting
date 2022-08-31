@@ -1,0 +1,35 @@
+{
+    "preHome": {
+        "hola": "Hello!",
+        "selecciona": "Select your country"
+    },
+    "menu": {
+        "titulo": "MENU",
+        "quienesSomos": "About As",
+        "coberturas": "Our coverage",
+        "faq": "FAQs",
+        "baja": "Regret button",
+        "contacto": "Contact",
+        "marca": "Europ Asistance"
+    },
+    "redes": {
+        "seguinos": "FOLLOW IN"
+    },
+    "buttons": {
+        "anterior": "Anterior",
+        "pagar": "Pagar"
+    },
+    "formContratar": {
+        "subtitulo": "Completá tus datos y finalizá tu compra.",
+        "datosFacturacion": "Datos de facturación",
+        "datosSubtitulo": "Datos de facturación",
+        "formaPago": "Forma de pago",
+        "formaPagoSubtitulo": "Estás a un paso de contratar tu asistencia. Tené a disposición la tarjeta con que se efecturá el pago.",
+        "cuotas": "Cuotas",
+        "vtoMes": "Mes de Vencimiento",
+        "vtoAnio": "Año de Vencimiento",
+        "titularTarjeta": "Datos del titular",
+        "pasajero": "Pasajero",
+        "completarPasajero": "Debe completar todos los campos de"
+    }
+}
