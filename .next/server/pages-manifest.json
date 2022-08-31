@@ -1,0 +1,16 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/arrepentimiento": "pages/arrepentimiento.html",
+  "/contacto": "pages/contacto.html",
+  "/gracias": "pages/gracias.html",
+  "/home": "pages/home.html",
+  "/": "pages/index.html",
+  "/nuestras-coberturas": "pages/nuestras-coberturas.html",
+  "/planes": "pages/planes.js",
+  "/preguntas-frecuentes": "pages/preguntas-frecuentes.html",
+  "/quienes-somos": "pages/quienes-somos.html",
+  "/contratar": "pages/contratar.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
